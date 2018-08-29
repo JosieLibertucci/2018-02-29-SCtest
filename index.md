@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: SWC    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
+carpentry: swc    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: University of Michigan        # brief name of host site without address (e.g., "Euphoric State University")
 address: 1234 Lalala lane, Taubman Health Sciences Library, Tree Town, MI      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: USA!      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
@@ -221,7 +221,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
   If you want to use an Etherpad, go to
 
-      http://pad.software-carpentry.org/YYYY-MM-DD-site
+      http://pad.software-carpentry.org/2018-10-22-site
 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
